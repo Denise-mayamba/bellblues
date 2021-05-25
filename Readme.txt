@@ -1,6 +1,6 @@
 Thanks for downloading this template!
 
-Template Name: Day
-Template URL: https://bootstrapmade.com/day-multipurpose-html-template-for-free/
+Template Name: Gp
+Template URL: https://bootstrapmade.com/gp-free-multipurpose-html-bootstrap-template/
 Author: BootstrapMade.com
 License: https://bootstrapmade.com/license/
